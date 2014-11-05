@@ -1,4 +1,4 @@
-heystack-ios
+musicq-ios
 ============
 
-iOS source for heystack.
+iOS source for musicq.
